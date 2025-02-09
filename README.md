@@ -61,52 +61,6 @@ La página web de la Posada Casa Mori incluye las siguientes secciones:
 - PHP
 Recopilando información del área de trabajoClaro, aquí tienes un archivo `README.md` que describe el contenido del área de trabajo:
 
-```markdown
-# Posada Casa Mori
-
-Este es el repositorio del proyecto de la página web para la Posada Casa Mori.
-
-## Estructura del Proyecto
-
-```filetree
-Casa-Moriv2/
-├── css/
-│   ├── bootstrap.css
-│   ├── bootstrap.min.css
-│   └── style.css
-├── fonts/
-│   ├── font-awesome/
-│   └── fonts/
-├── img/
-│   ├── bedroom-1.jpg
-│   ├── casamori_logo_white.png
-│   ├── casamori_logo_white.svg
-│   ├── casamori_logo.svg
-│   ├── casamori-bg.jpg
-│   ├── chef.jpg
-│   ├── desayuno-1.png
-│   ├── gallery/
-│   ├── gallery-bg.jpg
-│   ├── intro-bg.jpg
-│   ├── map.png
-│   ├── piscina-1.jpg
-│   ├── playa_edit.png
-│   ├── specials/
-│   ├── testimonial-1.jpg
-│   └── testimonial-2.jpg
-├── js/
-│   ├── bootstrap.js
-│   ├── bootstrap.min.js
-│   ├── contact_me.js
-│   ├── jqBootstrapValidation.js
-│   ├── jquery.1.11.1.js
-│   ├── main.js
-│   └── SmoothScroll.js
-├── mail/
-│   └── contact_me.php
-└── index.html
-```
-
 ## Descripción
 
 La página web de la Posada Casa Mori incluye las siguientes secciones:
